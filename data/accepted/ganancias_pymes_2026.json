@@ -1,0 +1,43 @@
+{
+  "id": "ganancias_pymes_2026",
+  "content_raw": "Impuesto a las Ganancias para PyMES y Responsables Inscriptos 2026 (Ley 20.628 y modificaciones).\n\n¿QUIÉNES PAGAN GANANCIAS?\n- Personas humanas: Responsables Inscriptos con ingresos netos que superen el Mínimo No Imponible\n- Sociedades (SRL, SA, SAS): pagan siempre sobre las ganancias netas, tasa del 35%\n- Monotributistas: NO pagan Ganancias por ingresos de la actividad (está incluido en el impuesto integrado)\n\nGANANCIAS PERSONAS HUMANAS — ESCALA PROGRESIVA 2026:\nLa escala se actualiza periódicamente por decreto. Tramos aproximados anuales:\n- Hasta $1.386.000 anuales: 5%\n- Hasta $2.772.000 anuales: 9%\n- Hasta $4.158.000 anuales: 12%\n- Hasta $5.544.000 anuales: 15%\n- Hasta $8.316.000 anuales: 19%\n- Hasta $11.088.000 anuales: 23%\n- Hasta $16.632.000 anuales: 27%\n- Hasta $22.176.000 anuales: 31%\n- Más de $22.176.000 anuales: 35%\n\nMÍNIMO NO IMPONIBLE Y DEDUCCIONES PERSONALES 2026:\n- MNI (Ganancia No Imponible): $4.032.780 anuales aproximadamente\n- Deducción especial para trabajadores autónomos en relación de dependencia: mayor\n- Carga de familia: por cónyuge, hijos menores de 18 años\n- Gastos deducibles: alquiler (hasta cierto monto), medicina prepaga, intereses de hipoteca\n\nPAGOS A CUENTA — ANTICIPOS:\n- Se pagan 10 anticipos mensuales (de junio a marzo del año siguiente)\n- Cada anticipo = 10% del impuesto determinado del año anterior menos retenciones\n- Se pueden reducir si se estima que el impuesto del año actual será menor",
+  "content_clean": "Impuesto a las Ganancias para PyMES y Responsables Inscriptos 2026 (Ley 20.628 y modificaciones). ¿QUIÉNES PAGAN GANANCIAS? - Personas humanas: Responsables Inscriptos con ingresos netos que superen el Mínimo No Imponible - Sociedades (SRL, SA, SAS): pagan siempre sobre las ganancias netas, tasa del 35% - Monotributistas: NO pagan Ganancias por ingresos de la actividad (está incluido en el impuesto integrado) GANANCIAS PERSONAS HUMANAS — ESCALA PROGRESIVA 2026: La escala se actualiza periódicamente por decreto. Tramos aproximados anuales: - Hasta $1.386.000 anuales: 5% - Hasta $2.772.000 anuales: 9% - Hasta $4.158.000 anuales: 12% - Hasta $5.544.000 anuales: 15% - Hasta $8.316.000 anuales: 19% - Hasta $11.088.000 anuales: 23% - Hasta $16.632.000 anuales: 27% - Hasta $22.176.000 anuales: 31% - Más de $22.176.000 anuales: 35% MÍNIMO NO IMPONIBLE Y DEDUCCIONES PERSONALES 2026: - MNI (Ganancia No Imponible): $4.032.780 anuales aproximadamente - Deducción especial para trabajadores autónomos en relación de dependencia: mayor - Carga de familia: por cónyuge, hijos menores de 18 años - Gastos deducibles: alquiler (hasta cierto monto), medicina prepaga, intereses de hipoteca PAGOS A CUENTA — ANTICIPOS: - Se pagan 10 anticipos mensuales (de junio a marzo del año siguiente) - Cada anticipo = 10% del impuesto determinado del año anterior menos retenciones - Se pueden reducir si se estima que el impuesto del año actual será menor",
+  "source_url": "https://www.afip.gob.ar/ganancias/",
+  "source_type": "manual",
+  "source_name": "ARCA — Impuesto a las Ganancias PyMES 2026",
+  "published_at": null,
+  "ingested_at": "2026-05-31T19:16:45.784953",
+  "vigencia_desde": "2026-01-01",
+  "vigencia_hasta": null,
+  "vertical": "universal",
+  "segment": "responsable_inscripto",
+  "topics": [
+    "ganancias",
+    "impuesto",
+    "escala",
+    "deducciones",
+    "anticipos"
+  ],
+  "jurisdiccion": "nacional",
+  "rg_numero": null,
+  "quality_score": 9.0,
+  "quality_breakdown": {
+    "completitud": 9.0,
+    "precision": 9.0,
+    "vigencia": 9.0,
+    "relevancia": 9.0,
+    "razon": "Seed manual — validado por experto contador"
+  },
+  "quality_status": "accepted",
+  "synthetic_questions": [
+    "¿Los Monotributistas pagan Ganancias?",
+    "¿Cuánto paga de Ganancias una SRL?",
+    "¿Cuál es la escala del impuesto a las Ganancias para personas?",
+    "¿Qué es el Mínimo No Imponible de Ganancias?",
+    "¿Qué gastos puedo deducir en Ganancias?",
+    "¿Qué son los anticipos de Ganancias?"
+  ],
+  "chunk_index": 0,
+  "total_chunks": 1,
+  "parent_doc_id": "aa18284bdfa0a9fc"
+}

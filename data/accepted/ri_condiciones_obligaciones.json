@@ -1,0 +1,42 @@
+{
+  "id": "ri_condiciones_obligaciones",
+  "content_raw": "Responsable Inscripto (RI) — Condiciones, obligaciones y cuándo conviene inscribirse.\n\n¿CUÁNDO ERES OBLIGATORIAMENTE RESPONSABLE INSCRIPTO?\n1. Cuando superás el límite máximo del Monotributo (categoría K)\n2. Si realizás importaciones habituales\n3. Si realizás más de 3 actividades simultáneas\n4. Si tenés más de 3 locales o establecimientos\n5. Si el precio unitario de venta de tus bienes supera $29.000\n\nOBLIGACIONES COMO RI:\n- Presentar DDJJ de IVA mensualmente (vto. días 18-22 según CUIT)\n- Presentar DDJJ de Ganancias anualmente (vto. abril/mayo del año siguiente)\n- Presentar DDJJ de IIBB mensualmente o bimensualmente según jurisdicción\n- Emitir facturas tipo A a otros RI, tipo B a consumidores finales y exentos\n- Llevar libros contables o registros de compras y ventas\n- Pagar anticipos de Ganancias (10 cuotas anuales)\n- Realizar aportes autónomos a la jubilación mensualmente\n\nAPORTES AUTÓNOMOS COMO RI 2026:\nLos aportes al SIPA como autónomo se calculan sobre una base imponible según categoría:\n- Categoría I (actividad sin personal): base aprox. $18.000/mes → aporte 27% = $4.860/mes\n- Categoría II (con personal hasta 3): base mayor\n- Categoría III-V: bases crecientes\n\nVENTAJAS DEL RI FRENTE AL MONOTRIBUTO:\n- Podés computar IVA crédito de todas tus compras con factura A\n- Deducís gastos reales de Ganancias (no hay techo)\n- Podés facturar montos ilimitados\n- Más credibilidad comercial con clientes corporativos que necesitan factura A\n- Podés recuperar saldos de IVA a favor",
+  "content_clean": "Responsable Inscripto (RI) — Condiciones, obligaciones y cuándo conviene inscribirse. ¿CUÁNDO ERES OBLIGATORIAMENTE RESPONSABLE INSCRIPTO? 1. Cuando superás el límite máximo del Monotributo (categoría K) 2. Si realizás importaciones habituales 3. Si realizás más de 3 actividades simultáneas 4. Si tenés más de 3 locales o establecimientos 5. Si el precio unitario de venta de tus bienes supera $29.000 OBLIGACIONES COMO RI: - Presentar DDJJ de IVA mensualmente (vto. días 18-22 según CUIT) - Presentar DDJJ de Ganancias anualmente (vto. abril/mayo del año siguiente) - Presentar DDJJ de IIBB mensualmente o bimensualmente según jurisdicción - Emitir facturas tipo A a otros RI, tipo B a consumidores finales y exentos - Llevar libros contables o registros de compras y ventas - Pagar anticipos de Ganancias (10 cuotas anuales) - Realizar aportes autónomos a la jubilación mensualmente APORTES AUTÓNOMOS COMO RI 2026: Los aportes al SIPA como autónomo se calculan sobre una base imponible según categoría: - Categoría I (actividad sin personal): base aprox. $18.000/mes → aporte 27% = $4.860/mes - Categoría II (con personal hasta 3): base mayor - Categoría III-V: bases crecientes VENTAJAS DEL RI FRENTE AL MONOTRIBUTO: - Podés computar IVA crédito de todas tus compras con factura A - Deducís gastos reales de Ganancias (no hay techo) - Podés facturar montos ilimitados - Más credibilidad comercial con clientes corporativos que necesitan factura A - Podés recuperar saldos de IVA a favor",
+  "source_url": "https://www.afip.gob.ar/responsableInscripto/",
+  "source_type": "manual",
+  "source_name": "ARCA — Responsable Inscripto: obligaciones y ventajas",
+  "published_at": null,
+  "ingested_at": "2026-05-31T19:16:45.785004",
+  "vigencia_desde": "2026-01-01",
+  "vigencia_hasta": null,
+  "vertical": "universal",
+  "segment": "responsable_inscripto",
+  "topics": [
+    "responsable_inscripto",
+    "obligaciones",
+    "iva",
+    "ganancias",
+    "aportes"
+  ],
+  "jurisdiccion": "nacional",
+  "rg_numero": null,
+  "quality_score": 9.5,
+  "quality_breakdown": {
+    "completitud": 9.5,
+    "precision": 9.5,
+    "vigencia": 9.5,
+    "relevancia": 9.5,
+    "razon": "Seed manual — validado por experto contador"
+  },
+  "quality_status": "accepted",
+  "synthetic_questions": [
+    "¿Cuándo estoy obligado a ser Responsable Inscripto?",
+    "¿Qué impuestos paga un Responsable Inscripto?",
+    "¿Cuáles son las ventajas de ser Responsable Inscripto vs Monotributista?",
+    "¿Qué tipo de factura emite un Responsable Inscripto?",
+    "¿Cuánto pago de aportes jubilatorios siendo RI?"
+  ],
+  "chunk_index": 0,
+  "total_chunks": 1,
+  "parent_doc_id": "46889e0814afc774"
+}

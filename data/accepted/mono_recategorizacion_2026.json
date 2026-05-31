@@ -1,0 +1,41 @@
+{
+  "id": "mono_recategorizacion_2026",
+  "content_raw": "Monotributo — Recategorización semestral 2026 (RG 5329 y RG 4309 ARCA).\n\nLa recategorización es OBLIGATORIA dos veces por año:\n- Enero: se evalúan los 12 meses anteriores (enero a diciembre del año previo)\n- Julio: se evalúan los 12 meses anteriores (julio año previo a junio año actual)\n\nPlazos de recategorización:\n- Enero 2026: del 1 al 20 de enero de 2026\n- Julio 2026: del 1 al 20 de julio de 2026\n\n¿Cuándo te debés recategorizar?\n- Si facturaste MÁS del límite de tu categoría → subís de categoría\n- Si facturaste MENOS del mínimo de tu categoría por 2 períodos consecutivos → bajás\n- También consideran: superficie del local, energía eléctrica consumida, alquileres devengados\n\nConsecuencias de no recategorizarse:\n- Multa por incumplimiento de deberes formales\n- ARCA puede recategorizarte de oficio con intereses y multas\n- Riesgo de exclusión del régimen si la diferencia es grande\n\nExclusión del Monotributo:\nQuedás excluido automáticamente si:\n- Superás el límite de la categoría K\n- Realizás importaciones\n- Realizás más de 3 actividades simultáneas\n- Tenés más de 3 locales\n- Precio unitario de venta supera $29.000 (bienes)",
+  "content_clean": "Monotributo — Recategorización semestral 2026 (RG 5329 y RG 4309 ARCA). La recategorización es OBLIGATORIA dos veces por año: - Enero: se evalúan los 12 meses anteriores (enero a diciembre del año previo) - Julio: se evalúan los 12 meses anteriores (julio año previo a junio año actual) Plazos de recategorización: - Enero 2026: del 1 al 20 de enero de 2026 - Julio 2026: del 1 al 20 de julio de 2026 ¿Cuándo te debés recategorizar? - Si facturaste MÁS del límite de tu categoría → subís de categoría - Si facturaste MENOS del mínimo de tu categoría por 2 períodos consecutivos → bajás - También consideran: superficie del local, energía eléctrica consumida, alquileres devengados Consecuencias de no recategorizarse: - Multa por incumplimiento de deberes formales - ARCA puede recategorizarte de oficio con intereses y multas - Riesgo de exclusión del régimen si la diferencia es grande Exclusión del Monotributo: Quedás excluido automáticamente si: - Superás el límite de la categoría K - Realizás importaciones - Realizás más de 3 actividades simultáneas - Tenés más de 3 locales - Precio unitario de venta supera $29.000 (bienes)",
+  "source_url": "https://www.afip.gob.ar/monotributo/recategorizacion.asp",
+  "source_type": "manual",
+  "source_name": "ARCA — Recategorización Monotributo",
+  "published_at": null,
+  "ingested_at": "2026-05-31T19:16:45.784784",
+  "vigencia_desde": "2026-01-01",
+  "vigencia_hasta": null,
+  "vertical": "universal",
+  "segment": "monotributo",
+  "topics": [
+    "monotributo",
+    "recategorizacion",
+    "exclusion",
+    "plazos"
+  ],
+  "jurisdiccion": "nacional",
+  "rg_numero": "RG 5329",
+  "quality_score": 9.5,
+  "quality_breakdown": {
+    "completitud": 9.5,
+    "precision": 9.5,
+    "vigencia": 9.5,
+    "relevancia": 9.5,
+    "razon": "Seed manual — validado por experto contador"
+  },
+  "quality_status": "accepted",
+  "synthetic_questions": [
+    "¿Cuándo tengo que recategorizarme en el Monotributo?",
+    "¿Qué pasa si no me recategorizo a tiempo?",
+    "¿Cuándo me excluyen del Monotributo?",
+    "¿Hasta qué fecha tengo para la recategorización de julio?",
+    "¿Cómo sé si me conviene subir de categoría o pasarme a Responsable Inscripto?"
+  ],
+  "chunk_index": 0,
+  "total_chunks": 1,
+  "parent_doc_id": "cb5c0ce1fa6d3de7"
+}

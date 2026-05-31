@@ -1,0 +1,42 @@
+{
+  "id": "estrategia_sueldos_decision",
+  "content_raw": "Sueldos y personal — Decisiones estratégicas para PyMES argentinas.\n\n¿EMPLEADO EN RELACIÓN DE DEPENDENCIA O MONOTRIBUTISTA CONTRATADO?\n\nMonotributista contratado (locación de servicios):\n✓ Sin cargas sociales (ahorrás ~23% del valor contratado)\n✓ Sin ART, sin aguinaldo, sin vacaciones, sin indemnización\n✓ Más flexibilidad para dar de baja el contrato\n✗ Riesgo legal: si hay habitualidad, dependencia y exclusividad → AFIP puede considerarlo relación de dependencia\n✗ El contratado no tiene protección social (riesgo para él y para vos si hay accidente)\n✗ Si AFIP lo determina como relación encubierta → multas + cargas sociales retroactivas + intereses\n\nEmpleado en blanco:\n✓ Sin riesgo legal ni laboral\n✓ Posibilidad de beneficios MiPyME (reducción de cargas)\n✓ Mayor compromiso y retención del empleado\n✗ Costo 23% mayor en cargas sociales\n✗ Rigidez para despedir (indemnización)\n\nREGLA PRÁCTICA: si el servicio es recurrente, exclusivo y en tu horario → empleado en blanco.\nSi es por proyecto, no exclusivo, con libertad horaria → monotributista puede ser válido.\n\nCUÁNDO CONTRATAR EL PRÓXIMO EMPLEADO:\n- Si tu facturación por empleado supera 3x el costo total de ese empleado → hay margen para sumar uno\n- Si el dueño hace tareas que podrían hacer otros (administración, atención) → liberar ese tiempo vale más\n- Si perdiste clientes o ventas por falta de capacidad → el costo del empleado está justificado\n\nESTRATEGIA DE REMUNERACIÓN EN INFLACIÓN ALTA:\n- Actualizar salarios al menos cada 3 meses (seguir paritarias del sector)\n- Considerar bonos por productividad en vez de aumentos fijos (se ajustan solos)\n- Beneficios no remunerativos (vales de almuerzo, obra social complementaria) no tienen cargas sociales",
+  "content_clean": "Sueldos y personal — Decisiones estratégicas para PyMES argentinas. ¿EMPLEADO EN RELACIÓN DE DEPENDENCIA O MONOTRIBUTISTA CONTRATADO? Monotributista contratado (locación de servicios): ✓ Sin cargas sociales (ahorrás ~23% del valor contratado) ✓ Sin ART, sin aguinaldo, sin vacaciones, sin indemnización ✓ Más flexibilidad para dar de baja el contrato ✗ Riesgo legal: si hay habitualidad, dependencia y exclusividad → AFIP puede considerarlo relación de dependencia ✗ El contratado no tiene protección social (riesgo para él y para vos si hay accidente) ✗ Si AFIP lo determina como relación encubierta → multas + cargas sociales retroactivas + intereses Empleado en blanco: ✓ Sin riesgo legal ni laboral ✓ Posibilidad de beneficios MiPyME (reducción de cargas) ✓ Mayor compromiso y retención del empleado ✗ Costo 23% mayor en cargas sociales ✗ Rigidez para despedir (indemnización) REGLA PRÁCTICA: si el servicio es recurrente, exclusivo y en tu horario → empleado en blanco. Si es por proyecto, no exclusivo, con libertad horaria → monotributista puede ser válido. CUÁNDO CONTRATAR EL PRÓXIMO EMPLEADO: - Si tu facturación por empleado supera 3x el costo total de ese empleado → hay margen para sumar uno - Si el dueño hace tareas que podrían hacer otros (administración, atención) → liberar ese tiempo vale más - Si perdiste clientes o ventas por falta de capacidad → el costo del empleado está justificado ESTRATEGIA DE REMUNERACIÓN EN INFLACIÓN ALTA: - Actualizar salarios al menos cada 3 meses (seguir paritarias del sector) - Considerar bonos por productividad en vez de aumentos fijos (se ajustan solos) - Beneficios no remunerativos (vales de almuerzo, obra social complementaria) no tienen cargas sociales",
+  "source_url": "https://pymesstudio.com",
+  "source_type": "manual",
+  "source_name": "Pymes Studio — Estrategia de personal y sueldos",
+  "published_at": null,
+  "ingested_at": "2026-05-31T19:16:45.785468",
+  "vigencia_desde": "2026-01-01",
+  "vigencia_hasta": null,
+  "vertical": "universal",
+  "segment": "empleador",
+  "topics": [
+    "sueldos",
+    "personal",
+    "estrategia",
+    "empleado",
+    "monotributista"
+  ],
+  "jurisdiccion": "nacional",
+  "rg_numero": null,
+  "quality_score": 9.5,
+  "quality_breakdown": {
+    "completitud": 9.5,
+    "precision": 9.5,
+    "vigencia": 9.5,
+    "relevancia": 9.5,
+    "razon": "Seed manual — validado por experto contador"
+  },
+  "quality_status": "accepted",
+  "synthetic_questions": [
+    "¿Me conviene contratar empleados en blanco o como monotributistas?",
+    "¿Cuándo tengo que tomar un empleado más?",
+    "¿Cómo manejo los sueldos con inflación alta?",
+    "¿Cuál es el riesgo de contratar monotributistas para tareas habituales?",
+    "¿Qué beneficios no remunerativos puedo dar a mis empleados?"
+  ],
+  "chunk_index": 0,
+  "total_chunks": 1,
+  "parent_doc_id": "a51b6919d0ee4034"
+}

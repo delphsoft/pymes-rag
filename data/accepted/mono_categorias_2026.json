@@ -1,0 +1,40 @@
+{
+  "id": "mono_categorias_2026",
+  "content_raw": "Monotributo 2026 — Tablas de categorías vigentes desde enero 2026 (RG 5329 ARCA).\n\nSERVICIOS — Límites anuales de facturación:\n- Categoría A: hasta $3.309.375\n- Categoría B: hasta $4.914.375\n- Categoría C: hasta $6.883.125\n- Categoría D: hasta $8.519.250\n- Categoría E: hasta $10.155.375\n- Categoría F: hasta $12.817.875\n- Categoría G: hasta $15.480.375\n- Categoría H: hasta $20.805.375\n- Categoría I: hasta $26.130.000 (solo locaciones o prestaciones de servicios)\n- Categoría J: hasta $31.455.000 (solo locaciones o prestaciones de servicios)\n- Categoría K: hasta $36.780.000 (solo locaciones o prestaciones de servicios)\n\nVENTA DE COSAS MUEBLES — Límites anuales de facturación:\n- Categoría A: hasta $3.309.375\n- Categoría B: hasta $4.914.375\n- Categoría C: hasta $6.883.125\n- Categoría D: hasta $10.155.375\n- Categoría E: hasta $13.427.625\n- Categoría F: hasta $20.805.375\n- Categoría G: hasta $31.177.500\n- Categoría H: hasta $41.610.000\n- Categorías I, J, K: solo servicios, no aplica para bienes\n\nNota: Los valores se actualizan semestralmente en enero y julio por índice RIPTE.",
+  "content_clean": "Monotributo 2026 — Tablas de categorías vigentes desde enero 2026 (RG 5329 ARCA). SERVICIOS — Límites anuales de facturación: - Categoría A: hasta $3.309.375 - Categoría B: hasta $4.914.375 - Categoría C: hasta $6.883.125 - Categoría D: hasta $8.519.250 - Categoría E: hasta $10.155.375 - Categoría F: hasta $12.817.875 - Categoría G: hasta $15.480.375 - Categoría H: hasta $20.805.375 - Categoría I: hasta $26.130.000 (solo locaciones o prestaciones de servicios) - Categoría J: hasta $31.455.000 (solo locaciones o prestaciones de servicios) - Categoría K: hasta $36.780.000 (solo locaciones o prestaciones de servicios) VENTA DE COSAS MUEBLES — Límites anuales de facturación: - Categoría A: hasta $3.309.375 - Categoría B: hasta $4.914.375 - Categoría C: hasta $6.883.125 - Categoría D: hasta $10.155.375 - Categoría E: hasta $13.427.625 - Categoría F: hasta $20.805.375 - Categoría G: hasta $31.177.500 - Categoría H: hasta $41.610.000 - Categorías I, J, K: solo servicios, no aplica para bienes Nota: Los valores se actualizan semestralmente en enero y julio por índice RIPTE.",
+  "source_url": "https://www.afip.gob.ar/monotributo/categorias.asp",
+  "source_type": "manual",
+  "source_name": "ARCA — Tablas Monotributo 2026",
+  "published_at": null,
+  "ingested_at": "2026-05-31T19:16:45.784522",
+  "vigencia_desde": "2026-01-01",
+  "vigencia_hasta": null,
+  "vertical": "universal",
+  "segment": "monotributo",
+  "topics": [
+    "monotributo",
+    "categorias",
+    "limites_facturacion"
+  ],
+  "jurisdiccion": "nacional",
+  "rg_numero": "RG 5329",
+  "quality_score": 9.5,
+  "quality_breakdown": {
+    "completitud": 9.5,
+    "precision": 9.5,
+    "vigencia": 9.5,
+    "relevancia": 9.5,
+    "razon": "Seed manual — validado por experto contador"
+  },
+  "quality_status": "accepted",
+  "synthetic_questions": [
+    "¿Cuáles son los límites de facturación de Monotributo en 2026?",
+    "¿Hasta cuánto puedo facturar como Monotributista categoría H?",
+    "¿Cuándo se actualizan las tablas de Monotributo?",
+    "¿Cuál es la diferencia de límites entre servicios y venta de bienes en Monotributo?",
+    "¿Las categorías I, J, K del Monotributo aplican para comercios?"
+  ],
+  "chunk_index": 0,
+  "total_chunks": 1,
+  "parent_doc_id": "c6b62a49e791ba02"
+}

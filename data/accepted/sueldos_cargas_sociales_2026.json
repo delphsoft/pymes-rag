@@ -1,0 +1,43 @@
+{
+  "id": "sueldos_cargas_sociales_2026",
+  "content_raw": "Sueldos y cargas sociales 2026 — Guía para empleadores PyME en Argentina.\n\nSALARIO MÍNIMO VITAL Y MÓVIL (SMVM) 2026:\n- SMVM vigente: $1.030.000 por mes (valor referencial, se actualiza por paritarias)\n- Ningún trabajador puede cobrar menos que el SMVM\n\nDESCUENTOS AL EMPLEADO (sobre el sueldo bruto):\n- Jubilación (SIPA): 11%\n- Obra social: 3%\n- PAMI: 3%\n- Cuota sindical: variable (0,5% a 2% según convenio)\nTotal descuentos típicos: 17% del bruto aproximadamente\n\nCONTRIBUCIONES PATRONALES (a cargo del empleador, sobre el sueldo bruto):\n- Jubilación: 10,17%\n- Fondo Nacional de Empleo: 0,89%\n- ANSSAL: 0,31%\n- Asignaciones familiares: 4,44%\n- Obra social: 5%  (+ 0,5% LRT)\n- PAMI: 1,5%\nTotal contribuciones patronales: ~23% del sueldo bruto\n\nCOSTO REAL DE UN EMPLEADO PARA LA EMPRESA:\nSueldo bruto + 23% contribuciones patronales\nEjemplo: sueldo bruto $500.000 → costo total para la empresa ≈ $615.000\n\nPYMES CON BENEFICIOS (Resolución MiPyME):\nLas empresas certificadas como MiPyME tienen reducción de contribuciones:\n- Micro: reducción del 100% sobre contribuciones al SIPA\n- Pequeña: reducción del 75%\n- Mediana tramo 1: reducción del 50%\nEsto puede representar un ahorro de hasta $25.000/empleado por mes\n\nAGUINALDO (SAC — Sueldo Anual Complementario):\n- Se paga en 2 cuotas: antes del 30 de junio y antes del 31 de diciembre\n- Monto: 50% del mejor sueldo mensual del semestre\n- Está sujeto a descuentos y contribuciones normales",
+  "content_clean": "Sueldos y cargas sociales 2026 — Guía para empleadores PyME en Argentina. SALARIO MÍNIMO VITAL Y MÓVIL (SMVM) 2026: - SMVM vigente: $1.030.000 por mes (valor referencial, se actualiza por paritarias) - Ningún trabajador puede cobrar menos que el SMVM DESCUENTOS AL EMPLEADO (sobre el sueldo bruto): - Jubilación (SIPA): 11% - Obra social: 3% - PAMI: 3% - Cuota sindical: variable (0,5% a 2% según convenio) Total descuentos típicos: 17% del bruto aproximadamente CONTRIBUCIONES PATRONALES (a cargo del empleador, sobre el sueldo bruto): - Jubilación: 10,17% - Fondo Nacional de Empleo: 0,89% - ANSSAL: 0,31% - Asignaciones familiares: 4,44% - Obra social: 5% (+ 0,5% LRT) - PAMI: 1,5% Total contribuciones patronales: ~23% del sueldo bruto COSTO REAL DE UN EMPLEADO PARA LA EMPRESA: Sueldo bruto + 23% contribuciones patronales Ejemplo: sueldo bruto $500.000 → costo total para la empresa ≈ $615.000 PYMES CON BENEFICIOS (Resolución MiPyME): Las empresas certificadas como MiPyME tienen reducción de contribuciones: - Micro: reducción del 100% sobre contribuciones al SIPA - Pequeña: reducción del 75% - Mediana tramo 1: reducción del 50% Esto puede representar un ahorro de hasta $25.000/empleado por mes AGUINALDO (SAC — Sueldo Anual Complementario): - Se paga en 2 cuotas: antes del 30 de junio y antes del 31 de diciembre - Monto: 50% del mejor sueldo mensual del semestre - Está sujeto a descuentos y contribuciones normales",
+  "source_url": "https://www.afip.gob.ar/empleador/",
+  "source_type": "manual",
+  "source_name": "ARCA — Sueldos y cargas sociales PyME 2026",
+  "published_at": null,
+  "ingested_at": "2026-05-31T19:16:45.785237",
+  "vigencia_desde": "2026-01-01",
+  "vigencia_hasta": null,
+  "vertical": "universal",
+  "segment": "empleador",
+  "topics": [
+    "sueldos",
+    "cargas_sociales",
+    "empleador",
+    "contribuciones",
+    "aguinaldo"
+  ],
+  "jurisdiccion": "nacional",
+  "rg_numero": null,
+  "quality_score": 9.5,
+  "quality_breakdown": {
+    "completitud": 9.5,
+    "precision": 9.5,
+    "vigencia": 9.5,
+    "relevancia": 9.5,
+    "razon": "Seed manual — validado por experto contador"
+  },
+  "quality_status": "accepted",
+  "synthetic_questions": [
+    "¿Cuánto le cuesta a la empresa un empleado además del sueldo?",
+    "¿Cuáles son las contribuciones patronales en Argentina?",
+    "¿Cuánto descuento tiene un empleado en el recibo de sueldo?",
+    "¿Las PyMES tienen reducción de cargas sociales?",
+    "¿Cuándo se paga el aguinaldo?",
+    "¿Cuánto cuesta en total tener un empleado con sueldo de $500.000?"
+  ],
+  "chunk_index": 0,
+  "total_chunks": 1,
+  "parent_doc_id": "512290adf2b4a225"
+}

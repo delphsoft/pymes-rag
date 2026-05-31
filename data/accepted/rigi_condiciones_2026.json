@@ -1,0 +1,43 @@
+{
+  "id": "rigi_condiciones_2026",
+  "content_raw": "RIGI — Régimen de Incentivo para Grandes Inversiones (Ley 27.742 — Decreto 749/2023 y 242/2026).\n\n¿QUÉ ES EL RIGI?\nEl RIGI es un régimen especial de incentivos fiscales, aduaneros y cambiarios para inversiones de gran escala en Argentina. Fue creado por la Ley Bases (Ley 27.742) promulgada en 2024.\n\n¿QUIÉNES PUEDEN ADHERIR AL RIGI?\n- Vehículos de Proyecto Único (VPU): sociedades constituidas especialmente para el proyecto\n- Inversión mínima requerida: USD 200 millones en los primeros 2 años\n- Sectores habilitados: minería, petróleo y gas, energía (incluyendo renovables), infraestructura, tecnología, forestal, turismo y agroindustria\n- El proyecto debe ser nuevo o una expansión significativa\n\nBENEFICIOS DEL RIGI:\nImpositivos:\n- Alícuota de Impuesto a las Ganancias: 25% (vs 35% general)\n- IVA: devolución acelerada del saldo técnico (en 60 días en vez de años)\n- Exención de Impuesto sobre los Débitos y Créditos Bancarios (IDCB) — el impuesto al cheque\n- Deducción acelerada de bienes de capital: 100% en el año de adquisición\n\nAduaneros:\n- Importación de bienes de capital sin aranceles de importación\n- Exportaciones sin retenciones después del tercer año de vigencia\n\nCambiarios:\n- Libre disponibilidad del 100% de divisas de exportación en el año 4\n- Estabilidad por 30 años de las condiciones del RIGI (no pueden cambiar las reglas)\n\n¿ES PARA PyMES?\nEn principio NO, porque la inversión mínima es USD 200M. Sin embargo:\n- Proveedores y contratistas de proyectos RIGI pueden acceder a beneficios indirectos\n- La estabilidad regulatoria del RIGI beneficia al ecosistema sectorial",
+  "content_clean": "RIGI — Régimen de Incentivo para Grandes Inversiones (Ley 27.742 — Decreto 749/2023 y 242/2026). ¿QUÉ ES EL RIGI? El RIGI es un régimen especial de incentivos fiscales, aduaneros y cambiarios para inversiones de gran escala en Argentina. Fue creado por la Ley Bases (Ley 27.742) promulgada en 2024. ¿QUIÉNES PUEDEN ADHERIR AL RIGI? - Vehículos de Proyecto Único (VPU): sociedades constituidas especialmente para el proyecto - Inversión mínima requerida: USD 200 millones en los primeros 2 años - Sectores habilitados: minería, petróleo y gas, energía (incluyendo renovables), infraestructura, tecnología, forestal, turismo y agroindustria - El proyecto debe ser nuevo o una expansión significativa BENEFICIOS DEL RIGI: Impositivos: - Alícuota de Impuesto a las Ganancias: 25% (vs 35% general) - IVA: devolución acelerada del saldo técnico (en 60 días en vez de años) - Exención de Impuesto sobre los Débitos y Créditos Bancarios (IDCB) — el impuesto al cheque - Deducción acelerada de bienes de capital: 100% en el año de adquisición Aduaneros: - Importación de bienes de capital sin aranceles de importación - Exportaciones sin retenciones después del tercer año de vigencia Cambiarios: - Libre disponibilidad del 100% de divisas de exportación en el año 4 - Estabilidad por 30 años de las condiciones del RIGI (no pueden cambiar las reglas) ¿ES PARA PyMES? En principio NO, porque la inversión mínima es USD 200M. Sin embargo: - Proveedores y contratistas de proyectos RIGI pueden acceder a beneficios indirectos - La estabilidad regulatoria del RIGI beneficia al ecosistema sectorial",
+  "source_url": "https://www.argentina.gob.ar/economia/rigi",
+  "source_type": "manual",
+  "source_name": "RIGI — Régimen de Incentivo para Grandes Inversiones (Ley 27.742)",
+  "published_at": null,
+  "ingested_at": "2026-05-31T19:16:45.785757",
+  "vigencia_desde": "2024-07-08",
+  "vigencia_hasta": null,
+  "vertical": "universal",
+  "segment": "pyme",
+  "topics": [
+    "rigi",
+    "inversiones",
+    "incentivos",
+    "ganancias",
+    "iva",
+    "exportaciones"
+  ],
+  "jurisdiccion": "nacional",
+  "rg_numero": "Decreto 242/2026",
+  "quality_score": 9.0,
+  "quality_breakdown": {
+    "completitud": 9.0,
+    "precision": 9.0,
+    "vigencia": 9.0,
+    "relevancia": 9.0,
+    "razon": "Seed manual — validado por experto contador"
+  },
+  "quality_status": "accepted",
+  "synthetic_questions": [
+    "¿Qué es el RIGI?",
+    "¿Las PyMES pueden acceder al RIGI?",
+    "¿Qué beneficios impositivos tiene el RIGI?",
+    "¿Cuál es la inversión mínima para el RIGI?",
+    "¿El RIGI tiene beneficios en el IVA?"
+  ],
+  "chunk_index": 0,
+  "total_chunks": 1,
+  "parent_doc_id": "1910e9b9cb4428d7"
+}

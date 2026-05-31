@@ -1,0 +1,43 @@
+{
+  "id": "sas_beneficios_constitucion",
+  "content_raw": "SAS — Sociedad por Acciones Simplificada — Beneficios, requisitos y cuándo conviene (Ley 27.349).\n\n¿QUÉ ES UNA SAS?\nLa SAS es un tipo societario creado por la Ley de Apoyo al Capital Emprendedor (Ley 27.349, 2017).\nEs la forma jurídica más ágil para constituir una sociedad en Argentina.\n\nVENTAJAS DE LA SAS FRENTE A SRL/SA:\n1. Constitución 100% digital: se puede constituir en 24 horas desde el portal del IGJ\n2. Capital mínimo: 2 salarios mínimos (muy bajo vs SRL o SA)\n3. 1 solo socio posible (unipersonal): a diferencia de la SRL que requiere mínimo 2\n4. Administración flexible: puede tener un solo administrador\n5. Sin escribano obligatorio para la constitución\n6. Aumento de capital ágil: no requiere asamblea\n\nRÉGIMEN IMPOSITIVO DE LA SAS:\n- Paga Impuesto a las Ganancias como sociedad: 25% sobre utilidades netas\n- Si el socio retira dividendos: paga 7% adicional de retención (total efectivo ~30%)\n- Paga IVA como Responsable Inscripto (obligatoriamente)\n- Paga IIBB según jurisdicción\n- Está obligada a llevar contabilidad formal\n\nCUÁNDO CONVIENE SAS VS SER AUTÓNOMO RI:\n✓ Tenés un socio o querés sumar uno en el futuro\n✓ Querés proteger tu patrimonio personal de deudas del negocio\n✓ Ganancia neta > $10M anuales y preferís reinvertir en vez de retirar\n✓ Clientes grandes exigen contratar con persona jurídica\n✓ Buscás credibilidad para licitaciones o contratos corporativos\n\nCOSTOS DE MANTENER UNA SAS:\n- Contador para cierre de ejercicio anual: obligatorio\n- Tasa anual al IGJ: relativamente baja\n- Caja de previsión social del contador si el socio es profesional\n- No tiene costos prohibitivos para mantener activa",
+  "content_clean": "SAS — Sociedad por Acciones Simplificada — Beneficios, requisitos y cuándo conviene (Ley 27.349). ¿QUÉ ES UNA SAS? La SAS es un tipo societario creado por la Ley de Apoyo al Capital Emprendedor (Ley 27.349, 2017). Es la forma jurídica más ágil para constituir una sociedad en Argentina. VENTAJAS DE LA SAS FRENTE A SRL/SA: 1. Constitución 100% digital: se puede constituir en 24 horas desde el portal del IGJ 2. Capital mínimo: 2 salarios mínimos (muy bajo vs SRL o SA) 3. 1 solo socio posible (unipersonal): a diferencia de la SRL que requiere mínimo 2 4. Administración flexible: puede tener un solo administrador 5. Sin escribano obligatorio para la constitución 6. Aumento de capital ágil: no requiere asamblea RÉGIMEN IMPOSITIVO DE LA SAS: - Paga Impuesto a las Ganancias como sociedad: 25% sobre utilidades netas - Si el socio retira dividendos: paga 7% adicional de retención (total efectivo ~30%) - Paga IVA como Responsable Inscripto (obligatoriamente) - Paga IIBB según jurisdicción - Está obligada a llevar contabilidad formal CUÁNDO CONVIENE SAS VS SER AUTÓNOMO RI: ✓ Tenés un socio o querés sumar uno en el futuro ✓ Querés proteger tu patrimonio personal de deudas del negocio ✓ Ganancia neta > $10M anuales y preferís reinvertir en vez de retirar ✓ Clientes grandes exigen contratar con persona jurídica ✓ Buscás credibilidad para licitaciones o contratos corporativos COSTOS DE MANTENER UNA SAS: - Contador para cierre de ejercicio anual: obligatorio - Tasa anual al IGJ: relativamente baja - Caja de previsión social del contador si el socio es profesional - No tiene costos prohibitivos para mantener activa",
+  "source_url": "https://www.argentina.gob.ar/justicia/sas",
+  "source_type": "manual",
+  "source_name": "IGJ — SAS Sociedad por Acciones Simplificada (Ley 27.349)",
+  "published_at": null,
+  "ingested_at": "2026-05-31T19:16:45.785830",
+  "vigencia_desde": "2017-04-12",
+  "vigencia_hasta": null,
+  "vertical": "universal",
+  "segment": "pyme",
+  "topics": [
+    "sas",
+    "sociedad",
+    "constitucion",
+    "ganancias",
+    "responsabilidad_limitada"
+  ],
+  "jurisdiccion": "nacional",
+  "rg_numero": "Ley 27.349",
+  "quality_score": 9.5,
+  "quality_breakdown": {
+    "completitud": 9.5,
+    "precision": 9.5,
+    "vigencia": 9.5,
+    "relevancia": 9.5,
+    "razon": "Seed manual — validado por experto contador"
+  },
+  "quality_status": "accepted",
+  "synthetic_questions": [
+    "¿Qué es una SAS y cuándo conviene?",
+    "¿Cuánto tarda y cuesta armar una SAS?",
+    "¿Cuántos impuestos paga una SAS?",
+    "¿La SAS protege mi patrimonio personal?",
+    "¿La SAS puede tener un solo socio?",
+    "¿Cuándo conviene armar una SAS en vez de ser RI autónomo?"
+  ],
+  "chunk_index": 0,
+  "total_chunks": 1,
+  "parent_doc_id": "7912bfbf58803886"
+}

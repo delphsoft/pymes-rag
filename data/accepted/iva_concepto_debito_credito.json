@@ -1,0 +1,41 @@
+{
+  "id": "iva_concepto_debito_credito",
+  "content_raw": "IVA — Débito Fiscal vs Crédito Fiscal — Conceptos fundamentales para Responsables Inscriptos.\n\nIVA DÉBITO FISCAL:\n- Es el IVA que cobrás a tus clientes en cada venta o servicio\n- Alícuota general: 21% sobre el precio neto\n- Alícuota reducida: 10,5% (medicamentos, libros, transporte de pasajeros, algunos alimentos)\n- Alícuota diferencial: 27% (telecomunicaciones, gas, electricidad para uso no domiciliario)\n- Ejemplo: vendés $100.000 neto → generás $21.000 de débito fiscal\n\nIVA CRÉDITO FISCAL:\n- Es el IVA que pagás a tus proveedores en las compras\n- Solo podés computarlo si tenés factura A a tu nombre como RI\n- No podés computar el crédito fiscal de facturas B o C\n- Ejemplo: comprás insumos por $50.000 neto con factura A → tenés $10.500 de crédito fiscal\n\nPOSICIÓN MENSUAL DE IVA:\nPosición = Débito Fiscal - Crédito Fiscal\n- Si el resultado es positivo → pagás la diferencia a ARCA\n- Si el resultado es negativo → tenés saldo a favor (se acumula para el período siguiente)\n- Ejemplo: Débito $21.000 - Crédito $10.500 = $10.500 a pagar\n\nDECLARACIÓN JURADA DE IVA:\n- Se presenta mensualmente\n- Vencimiento: entre los días 18 y 22 del mes siguiente según terminación de CUIT\n- Se presenta a través de AFIP/ARCA web con clave fiscal",
+  "content_clean": "IVA — Débito Fiscal vs Crédito Fiscal — Conceptos fundamentales para Responsables Inscriptos. IVA DÉBITO FISCAL: - Es el IVA que cobrás a tus clientes en cada venta o servicio - Alícuota general: 21% sobre el precio neto - Alícuota reducida: 10,5% (medicamentos, libros, transporte de pasajeros, algunos alimentos) - Alícuota diferencial: 27% (telecomunicaciones, gas, electricidad para uso no domiciliario) - Ejemplo: vendés $100.000 neto → generás $21.000 de débito fiscal IVA CRÉDITO FISCAL: - Es el IVA que pagás a tus proveedores en las compras - Solo podés computarlo si tenés factura A a tu nombre como RI - No podés computar el crédito fiscal de facturas B o C - Ejemplo: comprás insumos por $50.000 neto con factura A → tenés $10.500 de crédito fiscal POSICIÓN MENSUAL DE IVA: Posición = Débito Fiscal - Crédito Fiscal - Si el resultado es positivo → pagás la diferencia a ARCA - Si el resultado es negativo → tenés saldo a favor (se acumula para el período siguiente) - Ejemplo: Débito $21.000 - Crédito $10.500 = $10.500 a pagar DECLARACIÓN JURADA DE IVA: - Se presenta mensualmente - Vencimiento: entre los días 18 y 22 del mes siguiente según terminación de CUIT - Se presenta a través de AFIP/ARCA web con clave fiscal",
+  "source_url": "https://www.afip.gob.ar/iva/",
+  "source_type": "manual",
+  "source_name": "ARCA — IVA Responsable Inscripto",
+  "published_at": null,
+  "ingested_at": "2026-05-31T19:16:45.784835",
+  "vigencia_desde": "2026-01-01",
+  "vigencia_hasta": null,
+  "vertical": "universal",
+  "segment": "responsable_inscripto",
+  "topics": [
+    "iva",
+    "debito_fiscal",
+    "credito_fiscal",
+    "responsable_inscripto"
+  ],
+  "jurisdiccion": "nacional",
+  "rg_numero": null,
+  "quality_score": 9.5,
+  "quality_breakdown": {
+    "completitud": 9.5,
+    "precision": 9.5,
+    "vigencia": 9.5,
+    "relevancia": 9.5,
+    "razon": "Seed manual — validado por experto contador"
+  },
+  "quality_status": "accepted",
+  "synthetic_questions": [
+    "¿Qué es el débito fiscal del IVA?",
+    "¿Qué es el crédito fiscal del IVA y cómo lo computo?",
+    "¿Cómo calculo mi posición de IVA mensual?",
+    "¿Cuándo vence la declaración jurada de IVA?",
+    "¿Puedo computar IVA crédito de una factura B?"
+  ],
+  "chunk_index": 0,
+  "total_chunks": 1,
+  "parent_doc_id": "6e0f4f05d27a9711"
+}

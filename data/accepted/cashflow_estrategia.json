@@ -1,0 +1,43 @@
+{
+  "id": "cashflow_estrategia",
+  "content_raw": "Gestión de flujo de caja (cashflow) para PyMES argentinas — Marco estratégico.\n\nDIFERENCIA ENTRE RENTABILIDAD Y LIQUIDEZ:\nUna empresa puede ser rentable en papel y quebrar por falta de liquidez.\nEjemplo: vendiste $5M en diciembre pero te pagan en febrero → en enero no tenés caja para pagar sueldos.\nLa rentabilidad mide el resultado. El cashflow mide la supervivencia.\n\nCOMPONENTES DEL CASHFLOW OPERATIVO:\n+ Cobros de ventas (no ventas, sino lo efectivamente cobrado)\n- Pagos a proveedores\n- Sueldos y cargas sociales\n- Impuestos pagados (no devengados)\n- Alquiler y gastos fijos operativos\n\nSEÑALES DE ALERTA EN EL CASHFLOW:\n🔴 El período de cobro promedio supera al período de pago promedio\n   (cobrás a 60 días pero pagás a 30 → siempre financiás a tus clientes)\n🔴 Capital de trabajo negativo (deudas corrientes > activos corrientes)\n🔴 Necesitás financiamiento bancario para pagar sueldos recurrentemente\n🟡 Ventas crecen pero la caja no mejora (puede indicar problemas de cobro)\n🟡 Pagás impuestos atrasados con recargo todos los meses\n\nESTRATEGIAS PARA MEJORAR EL CASHFLOW:\n1. Reducir el plazo de cobro: descuento por pago anticipado, facturar apenas se entrega\n2. Extender el plazo de pago: negociar con proveedores clave 30/60/90 días\n3. Anticipar cobros: anticipos del 30-50% en proyectos antes de empezar\n4. Planificar vencimientos impositivos: no sorprenderse con los vencimientos de IVA, IIBB, Ganancias\n5. Reserva de emergencia: mantener equivalente a 2 meses de costos fijos en cuenta\n\nPROYECCIÓN DE CASHFLOW A 3 MESES:\nSemana 1: listar todos los vencimientos conocidos (impuestos, sueldos, alquileres, deudas)\nSemana 2: listar todos los cobros esperados y su probabilidad\nSemana 3: identificar el mes con más tensión de caja\nSemana 4: definir si hay que adelantar algún cobro o diferir algún pago",
+  "content_clean": "Gestión de flujo de caja (cashflow) para PyMES argentinas — Marco estratégico. DIFERENCIA ENTRE RENTABILIDAD Y LIQUIDEZ: Una empresa puede ser rentable en papel y quebrar por falta de liquidez. Ejemplo: vendiste $5M en diciembre pero te pagan en febrero → en enero no tenés caja para pagar sueldos. La rentabilidad mide el resultado. El cashflow mide la supervivencia. COMPONENTES DEL CASHFLOW OPERATIVO: + Cobros de ventas (no ventas, sino lo efectivamente cobrado) - Pagos a proveedores - Sueldos y cargas sociales - Impuestos pagados (no devengados) - Alquiler y gastos fijos operativos SEÑALES DE ALERTA EN EL CASHFLOW: 🔴 El período de cobro promedio supera al período de pago promedio (cobrás a 60 días pero pagás a 30 → siempre financiás a tus clientes) 🔴 Capital de trabajo negativo (deudas corrientes > activos corrientes) 🔴 Necesitás financiamiento bancario para pagar sueldos recurrentemente 🟡 Ventas crecen pero la caja no mejora (puede indicar problemas de cobro) 🟡 Pagás impuestos atrasados con recargo todos los meses ESTRATEGIAS PARA MEJORAR EL CASHFLOW: 1. Reducir el plazo de cobro: descuento por pago anticipado, facturar apenas se entrega 2. Extender el plazo de pago: negociar con proveedores clave 30/60/90 días 3. Anticipar cobros: anticipos del 30-50% en proyectos antes de empezar 4. Planificar vencimientos impositivos: no sorprenderse con los vencimientos de IVA, IIBB, Ganancias 5. Reserva de emergencia: mantener equivalente a 2 meses de costos fijos en cuenta PROYECCIÓN DE CASHFLOW A 3 MESES: Semana 1: listar todos los vencimientos conocidos (impuestos, sueldos, alquileres, deudas) Semana 2: listar todos los cobros esperados y su probabilidad Semana 3: identificar el mes con más tensión de caja Semana 4: definir si hay que adelantar algún cobro o diferir algún pago",
+  "source_url": "https://pymesstudio.com",
+  "source_type": "manual",
+  "source_name": "Pymes Studio — Gestión de cashflow PyME",
+  "published_at": null,
+  "ingested_at": "2026-05-31T19:16:45.785655",
+  "vigencia_desde": "2026-01-01",
+  "vigencia_hasta": null,
+  "vertical": "universal",
+  "segment": "universal",
+  "topics": [
+    "cashflow",
+    "liquidez",
+    "estrategia",
+    "cobros",
+    "pagos",
+    "planificacion"
+  ],
+  "jurisdiccion": "nacional",
+  "rg_numero": null,
+  "quality_score": 9.5,
+  "quality_breakdown": {
+    "completitud": 9.5,
+    "precision": 9.5,
+    "vigencia": 9.5,
+    "relevancia": 9.5,
+    "razon": "Seed manual — validado por experto contador"
+  },
+  "quality_status": "accepted",
+  "synthetic_questions": [
+    "¿Por qué tengo rentabilidad pero me falta plata?",
+    "¿Cómo mejoro el flujo de caja de mi negocio?",
+    "¿Cómo proyecto el cashflow a 3 meses?",
+    "¿Cuánta reserva de caja debería tener?",
+    "¿Qué hago si cobro a 60 días pero pago a 30?"
+  ],
+  "chunk_index": 0,
+  "total_chunks": 1,
+  "parent_doc_id": "a51b6919d0ee4034"
+}

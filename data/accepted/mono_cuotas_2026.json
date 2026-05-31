@@ -1,0 +1,41 @@
+{
+  "id": "mono_cuotas_2026",
+  "content_raw": "Monotributo 2026 — Cuotas mensuales vigentes desde enero 2026 (RG 5329 ARCA).\n\nLa cuota mensual del Monotributo incluye tres componentes:\n1. Impuesto integrado (el componente fiscal)\n2. Aporte al SIPA (jubilación)\n3. Aporte a obra social\n\nSERVICIOS — Cuota mensual total aproximada por categoría:\n- Categoría A: $8.500 (impuesto $850 + SIPA $4.870 + OS $2.780)\n- Categoría B: $10.200 (impuesto $1.360 + SIPA $4.870 + OS $2.780)  \n- Categoría C: $12.700 (impuesto $2.040 + SIPA $4.870 + OS $2.780)\n- Categoría D: $16.300 (impuesto $4.200 + SIPA $4.870 + OS $2.780)\n- Categoría E: $19.000 (impuesto $5.920 + SIPA $4.870 + OS $2.780)\n- Categoría F: $24.100 (impuesto $11.050 + SIPA $4.870 + OS $2.780)\n- Categoría G: $30.800 (impuesto $16.730 + SIPA $4.870 + OS $2.780)\n- Categoría H: $41.300 (impuesto $27.120 + SIPA $4.870 + OS $2.780)\n- Categoría I: $69.500 (impuesto $55.200 + SIPA $4.870 + OS $2.780)\n- Categoría J: $95.000 (impuesto $80.200 + SIPA $4.870 + OS $2.780)\n- Categoría K: $127.000 (impuesto $112.200 + SIPA $4.870 + OS $2.780)\n\nImportante: Los Monotributistas NO pagan IVA separado ni Ganancias separado.\nEl impuesto integrado reemplaza ambos. Esta es la principal ventaja del régimen.",
+  "content_clean": "Monotributo 2026 — Cuotas mensuales vigentes desde enero 2026 (RG 5329 ARCA). La cuota mensual del Monotributo incluye tres componentes: 1. Impuesto integrado (el componente fiscal) 2. Aporte al SIPA (jubilación) 3. Aporte a obra social SERVICIOS — Cuota mensual total aproximada por categoría: - Categoría A: $8.500 (impuesto $850 + SIPA $4.870 + OS $2.780) - Categoría B: $10.200 (impuesto $1.360 + SIPA $4.870 + OS $2.780) - Categoría C: $12.700 (impuesto $2.040 + SIPA $4.870 + OS $2.780) - Categoría D: $16.300 (impuesto $4.200 + SIPA $4.870 + OS $2.780) - Categoría E: $19.000 (impuesto $5.920 + SIPA $4.870 + OS $2.780) - Categoría F: $24.100 (impuesto $11.050 + SIPA $4.870 + OS $2.780) - Categoría G: $30.800 (impuesto $16.730 + SIPA $4.870 + OS $2.780) - Categoría H: $41.300 (impuesto $27.120 + SIPA $4.870 + OS $2.780) - Categoría I: $69.500 (impuesto $55.200 + SIPA $4.870 + OS $2.780) - Categoría J: $95.000 (impuesto $80.200 + SIPA $4.870 + OS $2.780) - Categoría K: $127.000 (impuesto $112.200 + SIPA $4.870 + OS $2.780) Importante: Los Monotributistas NO pagan IVA separado ni Ganancias separado. El impuesto integrado reemplaza ambos. Esta es la principal ventaja del régimen.",
+  "source_url": "https://www.afip.gob.ar/monotributo/categorias.asp",
+  "source_type": "manual",
+  "source_name": "ARCA — Cuotas Monotributo 2026",
+  "published_at": null,
+  "ingested_at": "2026-05-31T19:16:45.784704",
+  "vigencia_desde": "2026-01-01",
+  "vigencia_hasta": null,
+  "vertical": "universal",
+  "segment": "monotributo",
+  "topics": [
+    "monotributo",
+    "cuotas",
+    "impuesto_integrado",
+    "aportes"
+  ],
+  "jurisdiccion": "nacional",
+  "rg_numero": "RG 5329",
+  "quality_score": 9.5,
+  "quality_breakdown": {
+    "completitud": 9.5,
+    "precision": 9.5,
+    "vigencia": 9.5,
+    "relevancia": 9.5,
+    "razon": "Seed manual — validado por experto contador"
+  },
+  "quality_status": "accepted",
+  "synthetic_questions": [
+    "¿Cuánto pago de Monotributo por mes en categoría H?",
+    "¿Qué incluye la cuota mensual del Monotributo?",
+    "¿El Monotributista paga IVA y Ganancias?",
+    "¿Cuánto son los aportes jubilatorios en Monotributo?",
+    "¿Cuánto pago de obra social siendo Monotributista?"
+  ],
+  "chunk_index": 0,
+  "total_chunks": 1,
+  "parent_doc_id": "c6b62a49e791ba02"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "comparativa_mono_ri_sas",
+  "content_raw": "Análisis comparativo: ¿Cuándo conviene Monotributo, Responsable Inscripto o SAS? (2026)\n\nMONOTRIBUTO — CONVIENE CUANDO:\n✓ Facturación anual por debajo del límite de categoría K (~$36.7M en servicios)\n✓ Vendés principalmente a consumidores finales (no necesitan factura A)\n✓ Tus gastos deducibles de Ganancias serían bajos (pocos gastos reales)\n✓ Querés simplicidad administrativa (1 pago mensual, menos trámites)\n✓ Sos profesional independiente con pocos clientes personas\n\nRESPONSABLE INSCRIPTO — CONVIENE CUANDO:\n✓ Tus clientes principales son empresas que necesitan factura A para computar IVA crédito\n✓ Tenés muchos gastos con factura A (insumos, alquileres, servicios) → crédito fiscal alto\n✓ Superás el límite de Monotributo\n✓ Tenés empleados (el impuesto integrado no contempla escala con empleados)\n✓ Querés deducir gastos reales en Ganancias (viajes, movilidad, equipos, etc.)\n\nSAS (Sociedad por Acciones Simplificada) — CONVIENE CUANDO:\n✓ Querés separar el patrimonio personal del empresarial (responsabilidad limitada)\n✓ Tenés socios (2 o más personas)\n✓ Querés reinvertir ganancias dentro de la empresa (la SAS paga 35% sobre utilidades,\n  vos como persona no pagás Ganancias hasta que retirás dividendos)\n✓ Buscás imagen corporativa más sólida para contratos grandes\n✓ Planificás escalar el negocio y eventualmente buscar inversores\n\nPUNTO DE INFLEXIÓN MONO → RI (regla práctica):\nCuando el IVA crédito que podrías computar supera el ahorro de no pagar IVA e impuesto integrado.\nEjemplo típico: si tus compras con factura A superan el 40-50% de tus ventas, el RI puede resultar\nmás conveniente incluso antes de llegar al límite de categoría.\n\nPUNTO DE INFLEXIÓN RI → SAS:\nCuando la ganancia neta del negocio supera ~$15M anuales y querés reinvertirla\nen vez de retirarla, la SAS paga 35% y diferís el impuesto personal.",
+  "content_clean": "Análisis comparativo: ¿Cuándo conviene Monotributo, Responsable Inscripto o SAS? (2026) MONOTRIBUTO — CONVIENE CUANDO: ✓ Facturación anual por debajo del límite de categoría K (~$36.7M en servicios) ✓ Vendés principalmente a consumidores finales (no necesitan factura A) ✓ Tus gastos deducibles de Ganancias serían bajos (pocos gastos reales) ✓ Querés simplicidad administrativa (1 pago mensual, menos trámites) ✓ Sos profesional independiente con pocos clientes personas RESPONSABLE INSCRIPTO — CONVIENE CUANDO: ✓ Tus clientes principales son empresas que necesitan factura A para computar IVA crédito ✓ Tenés muchos gastos con factura A (insumos, alquileres, servicios) → crédito fiscal alto ✓ Superás el límite de Monotributo ✓ Tenés empleados (el impuesto integrado no contempla escala con empleados) ✓ Querés deducir gastos reales en Ganancias (viajes, movilidad, equipos, etc.) SAS (Sociedad por Acciones Simplificada) — CONVIENE CUANDO: ✓ Querés separar el patrimonio personal del empresarial (responsabilidad limitada) ✓ Tenés socios (2 o más personas) ✓ Querés reinvertir ganancias dentro de la empresa (la SAS paga 35% sobre utilidades, vos como persona no pagás Ganancias hasta que retirás dividendos) ✓ Buscás imagen corporativa más sólida para contratos grandes ✓ Planificás escalar el negocio y eventualmente buscar inversores PUNTO DE INFLEXIÓN MONO → RI (regla práctica): Cuando el IVA crédito que podrías computar supera el ahorro de no pagar IVA e impuesto integrado. Ejemplo típico: si tus compras con factura A superan el 40-50% de tus ventas, el RI puede resultar más conveniente incluso antes de llegar al límite de categoría. PUNTO DE INFLEXIÓN RI → SAS: Cuando la ganancia neta del negocio supera ~$15M anuales y querés reinvertirla en vez de retirarla, la SAS paga 35% y diferís el impuesto personal.",
+  "source_url": "https://www.afip.gob.ar/",
+  "source_type": "manual",
+  "source_name": "ARCA — Análisis comparativo regímenes 2026",
+  "published_at": null,
+  "ingested_at": "2026-05-31T19:16:45.785160",
+  "vigencia_desde": "2026-01-01",
+  "vigencia_hasta": null,
+  "vertical": "universal",
+  "segment": "universal",
+  "topics": [
+    "monotributo",
+    "responsable_inscripto",
+    "sas",
+    "comparativa",
+    "conveniencia"
+  ],
+  "jurisdiccion": "nacional",
+  "rg_numero": null,
+  "quality_score": 9.5,
+  "quality_breakdown": {
+    "completitud": 9.5,
+    "precision": 9.5,
+    "vigencia": 9.5,
+    "relevancia": 9.5,
+    "razon": "Seed manual — validado por experto contador"
+  },
+  "quality_status": "accepted",
+  "synthetic_questions": [
+    "¿Cuándo me conviene pasarme de Monotributo a Responsable Inscripto?",
+    "¿Cuándo conviene armar una SAS en vez de ser RI?",
+    "¿Cuál es la diferencia entre Monotributo, RI y SAS?",
+    "¿Cuándo debo cambiar de régimen impositivo?",
+    "¿Conviene ser Monotributista o RI si vendo a empresas?",
+    "¿La SAS paga menos impuestos que el RI?"
+  ],
+  "chunk_index": 0,
+  "total_chunks": 1,
+  "parent_doc_id": "b82894956c931391"
+}

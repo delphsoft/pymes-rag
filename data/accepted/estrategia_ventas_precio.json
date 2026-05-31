@@ -1,0 +1,43 @@
+{
+  "id": "estrategia_ventas_precio",
+  "content_raw": "Estrategia de ventas y precio para PyMES argentinas en contexto inflacionario.\n\nACTUALIZACIÓN DE PRECIOS — ERRORES COMUNES:\n1. Actualizar tarde: cada mes que tardás en actualizar, tu margen se erosiona\n2. Actualizar por debajo de la inflación: si tus costos suben 8% mensual y vos subís 5%, perdés margen\n3. Miedo a perder clientes: clientes que se van por precio justo generalmente no eran rentables\n\nFÓRMULA MÍNIMA DE ACTUALIZACIÓN DE PRECIOS:\nNuevo precio = Precio actual × (1 + variación de costos del período)\nIncluir en el cálculo: sueldos actualizados por paritaria, insumos, alquiler, servicios\n\nESTRATEGIA DE PRECIO EN INFLACIÓN ALTA:\n- Dolarizar mentalmente tus precios (aunque factures en pesos)\n- Usar como referencia el tipo de cambio MEP o blue según tu actividad\n- En servicios: actualizar mensualmente o trimestralmente con cláusula de ajuste automática\n- En comercio: remarcar cuando llega la mercadería nueva (no esperar agotar el stock viejo a precio viejo)\n\nANÁLISIS DE CLIENTES POR RENTABILIDAD:\nNo todos los clientes son iguales. Clasificar por:\n- Volumen de compra vs. tiempo que insumen\n- Puntualidad de pago (un cliente que paga a 90 días tiene un costo financiero implícito)\n- Margen que dejan (¿te piden descuentos? ¿compran solo lo de menor margen?)\n\nCONCENTRACIÓN DE CLIENTES — REGLA DE PARETO:\n- Si el 20% de tus clientes generan el 80% de tus ingresos, bien\n- Si 1 cliente solo genera más del 30% → riesgo de cartera crítico\n- Si perdés ese cliente, ¿podés sobrevivir 6 meses mientras reemplazás la facturación?\n\nESTACIONALIDAD — PLANIFICACIÓN DE CAJA:\n- Identificar los meses de baja estacional (típico: enero, julio en servicios; enero-marzo en B2B)\n- Generar reserva de caja equivalente a 2-3 meses de costos fijos antes de la temporada baja\n- En meses altos: no gastar todo el excedente, reservar para cubrir los bajos",
+  "content_clean": "Estrategia de ventas y precio para PyMES argentinas en contexto inflacionario. ACTUALIZACIÓN DE PRECIOS — ERRORES COMUNES: 1. Actualizar tarde: cada mes que tardás en actualizar, tu margen se erosiona 2. Actualizar por debajo de la inflación: si tus costos suben 8% mensual y vos subís 5%, perdés margen 3. Miedo a perder clientes: clientes que se van por precio justo generalmente no eran rentables FÓRMULA MÍNIMA DE ACTUALIZACIÓN DE PRECIOS: Nuevo precio = Precio actual × (1 + variación de costos del período) Incluir en el cálculo: sueldos actualizados por paritaria, insumos, alquiler, servicios ESTRATEGIA DE PRECIO EN INFLACIÓN ALTA: - Dolarizar mentalmente tus precios (aunque factures en pesos) - Usar como referencia el tipo de cambio MEP o blue según tu actividad - En servicios: actualizar mensualmente o trimestralmente con cláusula de ajuste automática - En comercio: remarcar cuando llega la mercadería nueva (no esperar agotar el stock viejo a precio viejo) ANÁLISIS DE CLIENTES POR RENTABILIDAD: No todos los clientes son iguales. Clasificar por: - Volumen de compra vs. tiempo que insumen - Puntualidad de pago (un cliente que paga a 90 días tiene un costo financiero implícito) - Margen que dejan (¿te piden descuentos? ¿compran solo lo de menor margen?) CONCENTRACIÓN DE CLIENTES — REGLA DE PARETO: - Si el 20% de tus clientes generan el 80% de tus ingresos, bien - Si 1 cliente solo genera más del 30% → riesgo de cartera crítico - Si perdés ese cliente, ¿podés sobrevivir 6 meses mientras reemplazás la facturación? ESTACIONALIDAD — PLANIFICACIÓN DE CAJA: - Identificar los meses de baja estacional (típico: enero, julio en servicios; enero-marzo en B2B) - Generar reserva de caja equivalente a 2-3 meses de costos fijos antes de la temporada baja - En meses altos: no gastar todo el excedente, reservar para cubrir los bajos",
+  "source_url": "https://pymesstudio.com",
+  "source_type": "manual",
+  "source_name": "Pymes Studio — Estrategia de ventas y precios",
+  "published_at": null,
+  "ingested_at": "2026-05-31T19:16:45.785550",
+  "vigencia_desde": "2026-01-01",
+  "vigencia_hasta": null,
+  "vertical": "universal",
+  "segment": "universal",
+  "topics": [
+    "ventas",
+    "precio",
+    "estrategia",
+    "inflacion",
+    "clientes",
+    "rentabilidad"
+  ],
+  "jurisdiccion": "nacional",
+  "rg_numero": null,
+  "quality_score": 9.5,
+  "quality_breakdown": {
+    "completitud": 9.5,
+    "precision": 9.5,
+    "vigencia": 9.5,
+    "relevancia": 9.5,
+    "razon": "Seed manual — validado por experto contador"
+  },
+  "quality_status": "accepted",
+  "synthetic_questions": [
+    "¿Con qué frecuencia debería actualizar mis precios?",
+    "¿Cómo calculo el nuevo precio considerando la inflación?",
+    "¿Qué hago si tengo un cliente que representa el 40% de mis ventas?",
+    "¿Cómo manejo la estacionalidad en mi negocio?",
+    "¿Cómo identifico cuáles clientes son más rentables?"
+  ],
+  "chunk_index": 0,
+  "total_chunks": 1,
+  "parent_doc_id": "a51b6919d0ee4034"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "iva_compras_estrategia",
+  "content_raw": "IVA en compras — Estrategia para maximizar el crédito fiscal (para Responsables Inscriptos).\n\nREGLA DE ORO: Solo podés computar crédito fiscal de facturas tipo A.\nSi tu proveedor es Monotributista → te emite factura B o C → no genera crédito fiscal para vos.\n\nIMPACTO EN TUS COSTOS REALES:\n- Proveedor RI que te da factura A por $100.000 + $21.000 IVA:\n  Tu costo real = $100.000 (el IVA lo recuperás como crédito)\n- Proveedor Monotributista que te da factura por $121.000 (precio final):\n  Tu costo real = $121.000 (no hay IVA a recuperar)\n  \nDiferencia: el proveedor RI te conviene si podés recuperar el crédito.\n\nCUANDO NO PODÉS COMPUTAR CRÉDITO:\n- Si vendés a consumidores finales (factura B) pero comprás con factura A\n- Si tenés actividades exentas de IVA\n- Si el gasto no está vinculado a la actividad gravada\n- Gastos de representación: solo podés computar el 50% del crédito fiscal\n\nSALDO TÉCNICO VS SALDO DE LIBRE DISPONIBILIDAD:\n- Saldo técnico: se origina en compras vinculadas a ventas gravadas → se descuenta del débito\n- Saldo de libre disponibilidad: se origina en exportaciones → podés pedir devolución o transferirlo\n- Un saldo técnico acumulado grande puede indicar que estás comprando más de lo que vendés\n\nRECOMENDACIÓN ESTRATÉGICA:\nAntes de cerrar el período, revisá si conviene adelantar alguna compra con factura A\npara aumentar el crédito fiscal del mes y reducir el pago de IVA.",
+  "content_clean": "IVA en compras — Estrategia para maximizar el crédito fiscal (para Responsables Inscriptos). REGLA DE ORO: Solo podés computar crédito fiscal de facturas tipo A. Si tu proveedor es Monotributista → te emite factura B o C → no genera crédito fiscal para vos. IMPACTO EN TUS COSTOS REALES: - Proveedor RI que te da factura A por $100.000 + $21.000 IVA: Tu costo real = $100.000 (el IVA lo recuperás como crédito) - Proveedor Monotributista que te da factura por $121.000 (precio final): Tu costo real = $121.000 (no hay IVA a recuperar) Diferencia: el proveedor RI te conviene si podés recuperar el crédito. CUANDO NO PODÉS COMPUTAR CRÉDITO: - Si vendés a consumidores finales (factura B) pero comprás con factura A - Si tenés actividades exentas de IVA - Si el gasto no está vinculado a la actividad gravada - Gastos de representación: solo podés computar el 50% del crédito fiscal SALDO TÉCNICO VS SALDO DE LIBRE DISPONIBILIDAD: - Saldo técnico: se origina en compras vinculadas a ventas gravadas → se descuenta del débito - Saldo de libre disponibilidad: se origina en exportaciones → podés pedir devolución o transferirlo - Un saldo técnico acumulado grande puede indicar que estás comprando más de lo que vendés RECOMENDACIÓN ESTRATÉGICA: Antes de cerrar el período, revisá si conviene adelantar alguna compra con factura A para aumentar el crédito fiscal del mes y reducir el pago de IVA.",
+  "source_url": "https://www.afip.gob.ar/iva/",
+  "source_type": "manual",
+  "source_name": "ARCA — IVA Crédito Fiscal y Estrategia",
+  "published_at": null,
+  "ingested_at": "2026-05-31T19:16:45.784883",
+  "vigencia_desde": "2026-01-01",
+  "vigencia_hasta": null,
+  "vertical": "universal",
+  "segment": "responsable_inscripto",
+  "topics": [
+    "iva",
+    "credito_fiscal",
+    "compras",
+    "estrategia",
+    "proveedores"
+  ],
+  "jurisdiccion": "nacional",
+  "rg_numero": null,
+  "quality_score": 9.5,
+  "quality_breakdown": {
+    "completitud": 9.5,
+    "precision": 9.5,
+    "vigencia": 9.5,
+    "relevancia": 9.5,
+    "razon": "Seed manual — validado por experto contador"
+  },
+  "quality_status": "accepted",
+  "synthetic_questions": [
+    "¿Me conviene comprarle a un Monotributista o a un Responsable Inscripto?",
+    "¿Cómo maximizo el crédito fiscal del IVA?",
+    "¿Qué pasa si tengo saldo a favor de IVA acumulado?",
+    "¿Puedo pedir devolución del saldo de IVA?",
+    "¿Qué gastos no generan crédito fiscal?"
+  ],
+  "chunk_index": 0,
+  "total_chunks": 1,
+  "parent_doc_id": "6e0f4f05d27a9711"
+}

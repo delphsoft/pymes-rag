@@ -1,0 +1,43 @@
+{
+  "id": "estrategia_costos_rentabilidad",
+  "content_raw": "Análisis estratégico de costos para PyMES argentinas — Marco de diagnóstico y recomendaciones.\n\nESTRUCTURA DE COSTOS TÍPICA DE UNA PyME DE SERVICIOS:\n- Costos de personal: 40-60% de los ingresos (incluye cargas sociales)\n- Costos operativos (alquiler, servicios, tecnología): 10-20%\n- Costos comerciales y administrativos: 5-15%\n- Margen bruto objetivo: 30-50%\n\nESTRUCTURA TÍPICA PARA COMERCIO/RETAIL:\n- CMV (costo de mercadería vendida): 50-70% de ventas\n- Personal: 10-20%\n- Gastos fijos: 10-15%\n- Margen neto objetivo: 5-15%\n\nSEÑALES DE ALERTA EN LOS COSTOS:\n🔴 CRÍTICO:\n- Costo de personal > 60% de ingresos → revisar productividad o precio de venta\n- CMV > 75% de ventas → precio de venta demasiado bajo o proveedores caros\n- Gastos fijos > 40% de ingresos → estructura sobredimensionada\n\n🟡 ADVERTENCIA:\n- Margen bruto < 30% → negocio en zona de riesgo ante cualquier baja de ventas\n- Rotación de stock > 90 días → capital inmovilizado, costo financiero implícito\n- Más del 30% de ventas concentrado en 1 cliente → riesgo de cartera\n\nPALANCAS PARA MEJORAR LA RENTABILIDAD:\n1. Precio: un aumento del 5% en precio mejora el margen más que reducir costos el 5%\n2. Volumen: identificar el punto de break-even y qué hace falta para superarlo\n3. Mix de productos/servicios: enfocarse en los de mayor margen\n4. Proveedor: renegociar condiciones de pago o buscar alternativas\n5. Eficiencia de personal: medir facturación por empleado, detectar cuellos de botella\n6. Estructura fija: todo costo fijo que no se usa al 100% es un lastre\n\nCÁLCULO DEL PUNTO DE EQUILIBRIO (Break-Even):\nBreak-Even = Costos Fijos Totales / (1 - (Costos Variables / Ventas))\nSi tu punto de equilibrio está al 85% de tu capacidad actual → poco margen de seguridad\nSi está al 60% → podés bajar ventas 40% y seguir sin pérdida",
+  "content_clean": "Análisis estratégico de costos para PyMES argentinas — Marco de diagnóstico y recomendaciones. ESTRUCTURA DE COSTOS TÍPICA DE UNA PyME DE SERVICIOS: - Costos de personal: 40-60% de los ingresos (incluye cargas sociales) - Costos operativos (alquiler, servicios, tecnología): 10-20% - Costos comerciales y administrativos: 5-15% - Margen bruto objetivo: 30-50% ESTRUCTURA TÍPICA PARA COMERCIO/RETAIL: - CMV (costo de mercadería vendida): 50-70% de ventas - Personal: 10-20% - Gastos fijos: 10-15% - Margen neto objetivo: 5-15% SEÑALES DE ALERTA EN LOS COSTOS: 🔴 CRÍTICO: - Costo de personal > 60% de ingresos → revisar productividad o precio de venta - CMV > 75% de ventas → precio de venta demasiado bajo o proveedores caros - Gastos fijos > 40% de ingresos → estructura sobredimensionada 🟡 ADVERTENCIA: - Margen bruto < 30% → negocio en zona de riesgo ante cualquier baja de ventas - Rotación de stock > 90 días → capital inmovilizado, costo financiero implícito - Más del 30% de ventas concentrado en 1 cliente → riesgo de cartera PALANCAS PARA MEJORAR LA RENTABILIDAD: 1. Precio: un aumento del 5% en precio mejora el margen más que reducir costos el 5% 2. Volumen: identificar el punto de break-even y qué hace falta para superarlo 3. Mix de productos/servicios: enfocarse en los de mayor margen 4. Proveedor: renegociar condiciones de pago o buscar alternativas 5. Eficiencia de personal: medir facturación por empleado, detectar cuellos de botella 6. Estructura fija: todo costo fijo que no se usa al 100% es un lastre CÁLCULO DEL PUNTO DE EQUILIBRIO (Break-Even): Break-Even = Costos Fijos Totales / (1 - (Costos Variables / Ventas)) Si tu punto de equilibrio está al 85% de tu capacidad actual → poco margen de seguridad Si está al 60% → podés bajar ventas 40% y seguir sin pérdida",
+  "source_url": "https://pymesstudio.com",
+  "source_type": "manual",
+  "source_name": "Pymes Studio — Análisis estratégico de costos",
+  "published_at": null,
+  "ingested_at": "2026-05-31T19:16:45.785387",
+  "vigencia_desde": "2026-01-01",
+  "vigencia_hasta": null,
+  "vertical": "universal",
+  "segment": "universal",
+  "topics": [
+    "costos",
+    "rentabilidad",
+    "estrategia",
+    "margen",
+    "breakeven"
+  ],
+  "jurisdiccion": "nacional",
+  "rg_numero": null,
+  "quality_score": 9.5,
+  "quality_breakdown": {
+    "completitud": 9.5,
+    "precision": 9.5,
+    "vigencia": 9.5,
+    "relevancia": 9.5,
+    "razon": "Seed manual — validado por experto contador"
+  },
+  "quality_status": "accepted",
+  "synthetic_questions": [
+    "¿Cuánto debería gastar en personal como porcentaje de mis ingresos?",
+    "¿Cómo sé si mis costos son altos?",
+    "¿Qué margen bruto debería tener mi negocio?",
+    "¿Cómo mejoro la rentabilidad de mi PyME?",
+    "¿Cómo calculo el punto de equilibrio de mi negocio?",
+    "¿En qué me tengo que fijar para saber si mi estructura de costos es sana?"
+  ],
+  "chunk_index": 0,
+  "total_chunks": 1,
+  "parent_doc_id": "a51b6919d0ee4034"
+}

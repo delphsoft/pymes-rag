@@ -1,0 +1,255 @@
+[
+  {
+    "id": "mono_categorias_2026",
+    "source_name": "ARCA — Tablas Monotributo 2026",
+    "topics": [
+      "monotributo",
+      "categorias",
+      "limites_facturacion"
+    ],
+    "segment": "monotributo",
+    "jurisdiccion": "nacional",
+    "quality_score": 9.5,
+    "vigencia_desde": "2026-01-01",
+    "questions_count": 5,
+    "preview": "Monotributo 2026 — Tablas de categorías vigentes desde enero 2026 (RG 5329 ARCA). SERVICIOS — Límite"
+  },
+  {
+    "id": "mono_cuotas_2026",
+    "source_name": "ARCA — Cuotas Monotributo 2026",
+    "topics": [
+      "monotributo",
+      "cuotas",
+      "impuesto_integrado",
+      "aportes"
+    ],
+    "segment": "monotributo",
+    "jurisdiccion": "nacional",
+    "quality_score": 9.5,
+    "vigencia_desde": "2026-01-01",
+    "questions_count": 5,
+    "preview": "Monotributo 2026 — Cuotas mensuales vigentes desde enero 2026 (RG 5329 ARCA). La cuota mensual del M"
+  },
+  {
+    "id": "mono_recategorizacion_2026",
+    "source_name": "ARCA — Recategorización Monotributo",
+    "topics": [
+      "monotributo",
+      "recategorizacion",
+      "exclusion",
+      "plazos"
+    ],
+    "segment": "monotributo",
+    "jurisdiccion": "nacional",
+    "quality_score": 9.5,
+    "vigencia_desde": "2026-01-01",
+    "questions_count": 5,
+    "preview": "Monotributo — Recategorización semestral 2026 (RG 5329 y RG 4309 ARCA). La recategorización es OBLIG"
+  },
+  {
+    "id": "iva_concepto_debito_credito",
+    "source_name": "ARCA — IVA Responsable Inscripto",
+    "topics": [
+      "iva",
+      "debito_fiscal",
+      "credito_fiscal",
+      "responsable_inscripto"
+    ],
+    "segment": "responsable_inscripto",
+    "jurisdiccion": "nacional",
+    "quality_score": 9.5,
+    "vigencia_desde": "2026-01-01",
+    "questions_count": 5,
+    "preview": "IVA — Débito Fiscal vs Crédito Fiscal — Conceptos fundamentales para Responsables Inscriptos. IVA DÉ"
+  },
+  {
+    "id": "iva_compras_estrategia",
+    "source_name": "ARCA — IVA Crédito Fiscal y Estrategia",
+    "topics": [
+      "iva",
+      "credito_fiscal",
+      "compras",
+      "estrategia",
+      "proveedores"
+    ],
+    "segment": "responsable_inscripto",
+    "jurisdiccion": "nacional",
+    "quality_score": 9.5,
+    "vigencia_desde": "2026-01-01",
+    "questions_count": 5,
+    "preview": "IVA en compras — Estrategia para maximizar el crédito fiscal (para Responsables Inscriptos). REGLA D"
+  },
+  {
+    "id": "ganancias_pymes_2026",
+    "source_name": "ARCA — Impuesto a las Ganancias PyMES 2026",
+    "topics": [
+      "ganancias",
+      "impuesto",
+      "escala",
+      "deducciones",
+      "anticipos"
+    ],
+    "segment": "responsable_inscripto",
+    "jurisdiccion": "nacional",
+    "quality_score": 9.0,
+    "vigencia_desde": "2026-01-01",
+    "questions_count": 6,
+    "preview": "Impuesto a las Ganancias para PyMES y Responsables Inscriptos 2026 (Ley 20.628 y modificaciones). ¿Q"
+  },
+  {
+    "id": "ri_condiciones_obligaciones",
+    "source_name": "ARCA — Responsable Inscripto: obligaciones y ventajas",
+    "topics": [
+      "responsable_inscripto",
+      "obligaciones",
+      "iva",
+      "ganancias",
+      "aportes"
+    ],
+    "segment": "responsable_inscripto",
+    "jurisdiccion": "nacional",
+    "quality_score": 9.5,
+    "vigencia_desde": "2026-01-01",
+    "questions_count": 5,
+    "preview": "Responsable Inscripto (RI) — Condiciones, obligaciones y cuándo conviene inscribirse. ¿CUÁNDO ERES O"
+  },
+  {
+    "id": "comparativa_mono_ri_sas",
+    "source_name": "ARCA — Análisis comparativo regímenes 2026",
+    "topics": [
+      "monotributo",
+      "responsable_inscripto",
+      "sas",
+      "comparativa",
+      "conveniencia"
+    ],
+    "segment": "universal",
+    "jurisdiccion": "nacional",
+    "quality_score": 9.5,
+    "vigencia_desde": "2026-01-01",
+    "questions_count": 6,
+    "preview": "Análisis comparativo: ¿Cuándo conviene Monotributo, Responsable Inscripto o SAS? (2026) MONOTRIBUTO "
+  },
+  {
+    "id": "sueldos_cargas_sociales_2026",
+    "source_name": "ARCA — Sueldos y cargas sociales PyME 2026",
+    "topics": [
+      "sueldos",
+      "cargas_sociales",
+      "empleador",
+      "contribuciones",
+      "aguinaldo"
+    ],
+    "segment": "empleador",
+    "jurisdiccion": "nacional",
+    "quality_score": 9.5,
+    "vigencia_desde": "2026-01-01",
+    "questions_count": 6,
+    "preview": "Sueldos y cargas sociales 2026 — Guía para empleadores PyME en Argentina. SALARIO MÍNIMO VITAL Y MÓV"
+  },
+  {
+    "id": "estrategia_costos_rentabilidad",
+    "source_name": "Pymes Studio — Análisis estratégico de costos",
+    "topics": [
+      "costos",
+      "rentabilidad",
+      "estrategia",
+      "margen",
+      "breakeven"
+    ],
+    "segment": "universal",
+    "jurisdiccion": "nacional",
+    "quality_score": 9.5,
+    "vigencia_desde": "2026-01-01",
+    "questions_count": 6,
+    "preview": "Análisis estratégico de costos para PyMES argentinas — Marco de diagnóstico y recomendaciones. ESTRU"
+  },
+  {
+    "id": "estrategia_sueldos_decision",
+    "source_name": "Pymes Studio — Estrategia de personal y sueldos",
+    "topics": [
+      "sueldos",
+      "personal",
+      "estrategia",
+      "empleado",
+      "monotributista"
+    ],
+    "segment": "empleador",
+    "jurisdiccion": "nacional",
+    "quality_score": 9.5,
+    "vigencia_desde": "2026-01-01",
+    "questions_count": 5,
+    "preview": "Sueldos y personal — Decisiones estratégicas para PyMES argentinas. ¿EMPLEADO EN RELACIÓN DE DEPENDE"
+  },
+  {
+    "id": "estrategia_ventas_precio",
+    "source_name": "Pymes Studio — Estrategia de ventas y precios",
+    "topics": [
+      "ventas",
+      "precio",
+      "estrategia",
+      "inflacion",
+      "clientes",
+      "rentabilidad"
+    ],
+    "segment": "universal",
+    "jurisdiccion": "nacional",
+    "quality_score": 9.5,
+    "vigencia_desde": "2026-01-01",
+    "questions_count": 5,
+    "preview": "Estrategia de ventas y precio para PyMES argentinas en contexto inflacionario. ACTUALIZACIÓN DE PREC"
+  },
+  {
+    "id": "cashflow_estrategia",
+    "source_name": "Pymes Studio — Gestión de cashflow PyME",
+    "topics": [
+      "cashflow",
+      "liquidez",
+      "estrategia",
+      "cobros",
+      "pagos",
+      "planificacion"
+    ],
+    "segment": "universal",
+    "jurisdiccion": "nacional",
+    "quality_score": 9.5,
+    "vigencia_desde": "2026-01-01",
+    "questions_count": 5,
+    "preview": "Gestión de flujo de caja (cashflow) para PyMES argentinas — Marco estratégico. DIFERENCIA ENTRE RENT"
+  },
+  {
+    "id": "rigi_condiciones_2026",
+    "source_name": "RIGI — Régimen de Incentivo para Grandes Inversiones (Ley 27.742)",
+    "topics": [
+      "rigi",
+      "inversiones",
+      "incentivos",
+      "ganancias",
+      "iva",
+      "exportaciones"
+    ],
+    "segment": "pyme",
+    "jurisdiccion": "nacional",
+    "quality_score": 9.0,
+    "vigencia_desde": "2024-07-08",
+    "questions_count": 5,
+    "preview": "RIGI — Régimen de Incentivo para Grandes Inversiones (Ley 27.742 — Decreto 749/2023 y 242/2026). ¿QU"
+  },
+  {
+    "id": "sas_beneficios_constitucion",
+    "source_name": "IGJ — SAS Sociedad por Acciones Simplificada (Ley 27.349)",
+    "topics": [
+      "sas",
+      "sociedad",
+      "constitucion",
+      "ganancias",
+      "responsabilidad_limitada"
+    ],
+    "segment": "pyme",
+    "jurisdiccion": "nacional",
+    "quality_score": 9.5,
+    "vigencia_desde": "2017-04-12",
+    "questions_count": 6,
+    "preview": "SAS — Sociedad por Acciones Simplificada — Beneficios, requisitos y cuándo conviene (Ley 27.349). ¿Q"
+  }
+]
