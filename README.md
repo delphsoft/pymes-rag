@@ -79,6 +79,8 @@ pymes-rag/
 │   └── store.py             # JSON dev / Qdrant prod
 ├── api/
 │   └── rag_endpoint.py      # FastAPI + Next.js integration
+├── docs/
+│   └── FDE_PLAYBOOK.md      # Playbook del rol FDE para el skill dashbi-contador (no es corpus)
 └── data/
     ├── accepted/            # Chunks calificados ≥ 6.5
     ├── quarantine/          # Chunks 4.0-6.4 (revisar manualmente)
